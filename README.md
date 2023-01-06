@@ -7,7 +7,7 @@ Full Stack Developer.
 Dogukan is a Full stack developer that is generally working at React, Next JS, and Typescript. Highly focused on Javascript technologies. Furthermore strongly working on backend technologies like Node JS and Express JS framework. Alongside working with PHP and Laravel framework. Besides always being eager to try brand new technologies and be able the switch in stack technologies with ease, also able to consider which technologies are more compatible for future projects.
 
 * 🌍  I'm based in Istanbul / Turkey
-* ✉️  You can contact me at [dokuzorofficial@gmail.com](mailto:dokuzorofficial@gmail.com)
+* ✉️  You can contact me at [dogukandurukann@gmail.com](mailto:dokuzorofficial@gmail.com)
 * 🧠  I'm learning Astro JS
 * ⚡  Side Hustle : Bodybuilding
 
