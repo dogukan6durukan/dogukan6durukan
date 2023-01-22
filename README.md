@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer.
 ---------------------
 
-Dogukan is a Full Stack Developer that is generally working at React, Next JS, and Typescript. Highly focused on Javascript technologies. Furthermore strongly working on backend technologies like Node JS and Express JS framework. Alongside working with PHP and Laravel framework. Besides always being eager to try brand new technologies and be able the switch in stack technologies with ease, also able to consider which technologies are more compatible for future projects.
+Dogukan is a Full Stack Developer that is generally working at React, Next JS, and Typescript. Highly focused on Javascript technologies. Furthermore strongly working on backend technologies like Node JS and Express JS framework. I am also using Supabase, Fauna DB, DynamoDB, Planetscale and using prisma ORM for my SQL based operations. Alongside working with PHP and Laravel framework. Besides always being eager to try brand new technologies and be able the switch in stack technologies with ease, also able to consider which technologies are more compatible for future projects.
 
 * 🌍  I'm based in Istanbul / Turkey
 * ✉️  You can contact me at [dogukandurukann@gmail.com](mailto:dokuzorofficial@gmail.com)
