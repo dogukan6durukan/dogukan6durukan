@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer.
 ---------------------
 
-Dogukan is a Full Stack Developer who is generally working at React, Next JS, and Typescript. Highly focused on Javascript technologies. Furthermore strongly working on backend technologies like Node JS and Express JS framework. I am also using Supabase, Fauna DB, DynamoDB, Planetscale, and using Prisma ORM for my SQL-based operations. Alongside I'm learning C++ and Assembly for learning programming in depth and more. Besides always being eager to try brand new technologies and be able to switch stack technologies with ease, also able to consider which technologies are more compatible for future projects.
+Dogukan is a Full Stack Developer who is generally working at React, Next JS, and Typescript. Highly focused on Javascript technologies. Furthermore strongly working on backend technologies like Node JS and Express JS framework. I am also using Supabase, Fauna DB, DynamoDB, Planetscale, and using Prisma ORM for my SQL-based operations. Alongside I'm learning C/C++ and Assembly for learning programming in depth and more. Besides always being eager to try brand new technologies and be able to switch stack technologies with ease, also able to consider which technologies are more compatible for future projects.
 
 * 🌍  I'm based in Istanbul / Turkey
 * ✉️  You can contact me at [dogukandurukann@gmail.com](mailto:dogukandurukann@gmail.com)
-* 🧠  I'm learning Assembly and C++.
+* 🧠  I'm learning C/C++ and Assembly.
 * ⚡  Side Hustle : Bodybuilding
 
 ### Skills
