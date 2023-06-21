@@ -7,7 +7,7 @@ Full Stack Developer.
 Dogukan is a Full Stack Developer who is generally working at React, Next JS, and Typescript. Highly focused on Javascript technologies. Furthermore strongly working on backend technologies like Node JS and Express JS framework. I am also using Supabase, Fauna DB, DynamoDB, Planetscale, and using Prisma ORM for my SQL-based operations. Alongside I'm learning C/C++ and Assembly for learning programming in depth and more. Besides always being eager to try brand new technologies and be able to switch stack technologies with ease, also able to consider which technologies are more compatible for future projects.
 
 * 🌍  I'm based in Istanbul / Turkey
-* ✉️  You can contact me at [dogukandurukann@gmail.com](mailto:dogukandurukann@gmail.com)
+* ✉️  You can contact me at [dogukan6durukan@gmail.com](mailto:dogukan6durukan@gmail.com)
 * 🧠  I'm learning C/C++ and Assembly.
 * ⚡  Side Hustle : Bodybuilding
 
@@ -27,4 +27,4 @@ Dogukan is a Full Stack Developer who is generally working at React, Next JS, an
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/Dogukan#3283" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/dogukan6durukan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dogukandurukann/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/Dogukan#3283" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/dogukan6durukan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dogukan6durukan/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
